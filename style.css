@@ -1,0 +1,37 @@
+.stile_titolo{
+    font-size: 30px;
+    color: red;
+    width: 600px;
+}
+
+.area{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.casella{
+    height: 100px;
+    width: 600px;
+    font-size: 25px;
+}
+
+.btn{
+    font-size: 15px;
+    background: transparent;
+    color: darkred;
+    border: 2px solid black;
+}
+
+.titolo_nuovo{
+    color: darkblue;
+    font-size: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.contenuto_nuovo{
+
+    font-size: 25px;
+    width: 600px;
+
+}
