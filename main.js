@@ -1,7 +1,7 @@
-let title = document.getElementById("titoloArticolo");
-let textArea = document.getElementById("areaTesto");
-let bottone = document.getElementById("btnAggiungi");
-let article = document.getElementById("spazio_vuoto");
+let title = document.querySelector('#titoloArticolo');
+let textArea = document.querySelector('#areaTesto');
+let bottone = document.querySelector('#btnAggiungi');
+let article = document.querySelector('#spazio_vuoto');
 
 bottone.addEventListener("click",()=>{
     let testoInserito_uno = title.value;
